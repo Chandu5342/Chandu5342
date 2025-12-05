@@ -6,78 +6,71 @@
 
 ---
 
-## 🔥 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🎓 Final-year B.Tech Computer Science student at **VIIT, Visakhapatnam**.
-- 🌐 Proficient in **React.js**, **Node.js**, **.NET Blazor**, and **Firebase**.
-- 🧠 Focused on **DSA** and building side-projects with impact.
-- 🔗 Check out my live projects below (scroll down ⬇️).
+- 🌐 Skilled in **React.js**, **Node.js**, **.NET Blazor**, and **Firebase**.
+- 🧠 Passionate about backend systems + clean UI/UX.
 - 💡 Currently exploring **MERN Deployment**.
+- ⭐ Scroll down to see **my top projects**.
 
 ---
 
-## 🚀 💼 Projects Showcase
+## 🚀 Projects Showcase
 
-| Project | Tech Used | Live Link |
-|--------|-----------|-----------|
-| 📦 **EcoRecyclr** | React • Node • Firebase | 🔗 https://eco-flax.vercel.app/ |
-| 🛒 **Connect Alumni** | React • Node • MongoDB • Firebase | 🔗 https://alumin.vercel.app/ |
-| 📊 **DSA Dashboard** | React • Firebase | 🔗 https://dsa-mauve.vercel.app/ |
+| Project | Live Link | Description |
+|--------|-----------|-------------|
+| **EcoRecyclr** | 🔗 https://eco-flax.vercel.app/ | A gamified recycling platform with QR scanning + GPS verification. |
+| **Connect Alumni** | 🔗 https://alumin.vercel.app/ | Alumni connection portal with authentication + posts + community profiles. |
+| **DSA Dashboard** | 🔗 https://dsa-mauve.vercel.app/ | A tracker to monitor DSA progress with goals & learning metrics. |
 
 ---
 
-## 🛠️ Tech Stack (Badges + Icons)
+## 🛠️ Tech Stack (Google Icons Style)
 
 ### 🔣 Languages
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </p>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </p>
 
-### 🛢️ Database
+### 🛢️ Databases
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </p>
 
 ### 🧰 Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p>
 
 ---
 
-## ⚡ Animated Tech Stack Icons
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,git,github,figma,html,css,js,cpp,java,python" />
-</p>
-
----
-
-## 📊 GitHub Stats (Auto Updating)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CM-053&theme=tokyonight&show_icons=true&hide_border=true" height="165" />
@@ -86,7 +79,7 @@
 
 ---
 
-## 🔥 GitHub Streak Stats
+## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CM-053&theme=tokyonight&hide_border=true" />
@@ -94,7 +87,7 @@
 
 ---
 
-## 🌐 GitHub Activity Graph
+## 🌐 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CM-053&theme=tokyo-night&hide_border=true" />
