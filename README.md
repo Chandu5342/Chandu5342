@@ -73,8 +73,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CM-053&theme=tokyonight&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CM-053&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandu5342&theme=tokyonight&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandu5342&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CM-053&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Chandu5342&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
