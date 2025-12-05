@@ -6,16 +6,16 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Final-year B.Tech Computer Science student at VIIT, Visakhapatnam.
+## 🔥 👨‍💻 About Me
+- 🎓 Final-year B.Tech Computer Science student at **VIIT, Visakhapatnam**.
 - 🌐 Proficient in **React.js**, **Node.js**, **.NET Blazor**, and **Firebase**.
 - 🧠 Focused on **DSA** and building side-projects with impact.
 - 🔗 Check out my live projects below (scroll down ⬇️).
-- 💡 Currently exploring **MERN Deployment** 
+- 💡 Currently exploring **MERN Deployment**.
 
 ---
 
-### 💼 Projects Showcase
+## 🚀 💼 Projects Showcase
 
 | Project | Tech Used | Live Link |
 |--------|-----------|-----------|
@@ -25,9 +25,9 @@
 
 ---
 
-### 🛠️ Tech Stack (Badges)
+## 🛠️ Tech Stack (Badges + Icons)
 
-#### **Languages**
+### 🔣 Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 </p>
 
-#### **Frontend**
+### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white" />
 </p>
 
-#### **Backend**
+### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
@@ -52,14 +52,14 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
 </p>
 
-#### **Database**
+### 🛢️ Database
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-#### **Tools**
+### 🧰 Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
@@ -67,3 +67,37 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 </p>
+
+---
+
+## ⚡ Animated Tech Stack Icons
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,git,github,figma,html,css,js,cpp,java,python" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Auto Updating)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CM-053&theme=tokyonight&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CM-053&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CM-053&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CM-053&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
