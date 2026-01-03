@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### 🧰 Tools
+### 🧰Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
